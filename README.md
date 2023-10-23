@@ -10,6 +10,6 @@ I also like to meet and work with new people from all around the world.
 
 You can find me on discord -> dakkard
 
-Im fairly new but you can also find me on [LinkedIn](https://www.linkedin.com/in/pedro-sotelo-arce-838760297/)
+Im fairly new but you can also find me on [LinkedIn](https://www.linkedin.com/in/pedro-sotelo-arce-838760297/) and on [Twitter (X)](https://twitter.com/PeltreJs)
 
 
