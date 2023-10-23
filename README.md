@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @Peltre
-- 👀 I’m interested in software development as well as game developing
-- 🌱 I’m currently studying a computer science major but willing to get involved in any projects
-- 💞️ I’m looking to collaborate on any projects where I can learn new skills and hone my previously adquired 
-- 📫 How to reach me
-     Discord -> Dakkard
-     
-    
-  
+Hi  im @Peltre
+
+Im currently studying computer science major, now cursing my second year, I have a big interest in learning software and game developing
+my hobbies involve both gaming and learning new stuff, im looking to get more involved into the software and game developing world
+
+You can find me on discord -> dakkard
 
 
