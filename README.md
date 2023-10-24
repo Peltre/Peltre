@@ -2,7 +2,7 @@
 
 ========================================
 
-Im currently studying computer science major, now cursing my second year, I have a big interest in learning software and game developing
+Im currently studying computer science major, now cursing my second year, I have a big interest in learning software and game developing,
 my hobbies involve both gaming and learning new stuff, im looking to get more involved into the software and game developing world
 I also like to meet and work with new people from all around the world. 
 
