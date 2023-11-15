@@ -14,6 +14,7 @@ I also like to meet and work with new people from all around the world.
 ## Programming Languages
 
 - C++
+- Java Script
 - Python
 - Matlab
 - Currently learning HTML
