@@ -11,6 +11,14 @@ I also like to meet and work with new people from all around the world.
 
 ========================================
 
+## Software
+
+- Unity
+- SQL Server / PostreSQL
+- Cisco Packet Tracer 
+
+========================================
+
 ## Programming Languages
 
 - C++
