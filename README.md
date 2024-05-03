@@ -5,6 +5,7 @@ I like dinosaurs 🦖
 [![LinkedIn](https://img.shields.io/badge/Follow-LinkedIn-9147FF.svg)](https://www.linkedin.com/in/pedro-sotelo-arce-838760297/)
 
 ========================================
+
 🇲🇽 Im from Mexico 🇲🇽
 
 Im currently studying computer science major, now cursing my second year, I have a big interest in learning software and game developing,
