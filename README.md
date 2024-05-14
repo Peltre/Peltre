@@ -17,7 +17,7 @@ I also like to meet and work with new people from all around the world. ⭐
 ## Software 💥
 
 - Unity
-- SQL Server / PostreSQL
+- SQL Server / PostgreSQL
 - Cisco Packet Tracer 
 
 ========================================
