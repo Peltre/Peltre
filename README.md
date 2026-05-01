@@ -1,6 +1,7 @@
 # Hey, i'm Pedro (peltre) 🦖
 > Web dev · Game dev · Dinosaur enthusiast
 
+Game developer in progress based in México, im currently on my last semester as a Computer Science Major @ Tecnologico de Monterrey,
 I love building & contributing to projects that contribute to user experience
 
 ### 🌐 Web dev 
