@@ -1,5 +1,5 @@
 # Hey, i'm Pedro (peltre) 🦖
-> web dev · game dev · dinosaur enthusiast
+> Web dev · Game dev · Dinosaur enthusiast
 
 I love building & contributing to projects that contribute to user experience
 
