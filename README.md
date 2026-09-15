@@ -7,7 +7,7 @@ Currently working as a **Digital Solutions Developer @ Microplus**, building aut
 
 ### 🚧 What I'm building right now
 -  **[TopCut](https://top-cut-three.vercel.app/)** - a daily movie & series rating game. Live and deployed!
--  **Noma** - a React Native app to track personal finances *(in progress)*
+-  **[Noma](https://github.com/Peltre/Noma)** - a React Native app to track personal finances *(in progress)*
 
 ### And these are the tools I currently feel most comfortable with!
 <table>
