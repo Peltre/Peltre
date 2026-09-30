@@ -3,11 +3,12 @@
 
 **Computer Systems Engineering** graduate from Tecnológico de Monterrey — since I was little I've had a fascination with building things other people could find helpful, fun or usable, but the difference is that now, instead of Minecraft builds, I create apps, games, and the automations that connect them all!
 
-Currently working as a **Digital Solutions Developer @ Microplus**, building automation flows and API integrations between systems like Jira and Monday.com.
+Currently working as a **Automation & Business Intelligence Engineer @ Microplus**, building automation flows and API integrations between systems like Jira and Monday.com.
 
 ### 🚧 What I'm building right now
 -  **[TopCut](https://top-cut-three.vercel.app/)** - a daily movie & series rating game. Live and deployed!
--  **[Noma](https://github.com/Peltre/Noma)** - a React Native app to track personal finances *(in progress)*
+-  **[Noma](https://github.com/Peltre/Noma)** - a React Native app to track personal finances done and repo available!
+-  **[Note-It](https://github.com/Peltre/NoteIt)** - A very simple desktop App that lets you turn your screen into a post-it board (*in progress)
 
 ### And these are the tools I currently feel most comfortable with!
 <table>
