@@ -8,7 +8,7 @@ Currently working as a **Automation & Business Intelligence Engineer @ Microplus
 ### 🚧 What I'm building right now
 -  **[TopCut](https://top-cut-three.vercel.app/)** - a daily movie & series rating game. Live and deployed!
 -  **[Noma](https://github.com/Peltre/Noma)** - a React Native app to track personal finances done and repo available!
--  **[Note-It](https://github.com/Peltre/NoteIt)** - A very simple desktop App that lets you turn your screen into a post-it board
+-  **[NotedIt](https://github.com/Peltre/NoteIt)** - A very simple desktop App that lets you turn your screen into a post-it board
 
 ### And these are the tools I currently feel most comfortable with!
 <table>
